@@ -8,7 +8,7 @@
 ## index.js lambda function
 ![image](https://user-images.githubusercontent.com/32722949/108119488-e1fafa80-706d-11eb-97f3-d955cbe273f7.png)
 
-## role permission
+## Role Permission
 ![image](https://user-images.githubusercontent.com/32722949/108118826-eb379780-706c-11eb-8f27-5b37335eae07.png)
 
 
