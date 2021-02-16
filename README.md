@@ -1,7 +1,7 @@
 # lambda_xray_with_deps_demo
 
 ## Table of Contents
-- [index.js lambda function](#lambda-function-designer)
+- [index.js lambda function](#index.js-lambda-function)
 - [Execution result](#execution-result)
 - [EventBridge rule](#eventbridge-rule) 
 
