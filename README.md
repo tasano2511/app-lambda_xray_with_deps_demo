@@ -12,5 +12,5 @@
 ![image](https://user-images.githubusercontent.com/32722949/108118826-eb379780-706c-11eb-8f27-5b37335eae07.png)
 
 
-## xray servICEmap
+## XRay Servicemap
 ![image](https://user-images.githubusercontent.com/32722949/108118763-d4914080-706c-11eb-9e1a-051ab05d63c9.png)
