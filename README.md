@@ -1,4 +1,5 @@
 # lambda_xray_with_deps_demo
+This project is to show how the lambda function is built with dependencies (AWS SDK for XRay), also to show how XRay can be integrated to analyze and identify the root cause of performance issues and errors
 
 ## Table of Contents
 - [index.js lambda function](#indexjs-lambda-function)
